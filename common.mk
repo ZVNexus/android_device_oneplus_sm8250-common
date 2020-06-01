@@ -56,6 +56,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SOONG_NAMESPACES += \
     device/oneplus/sm8250-common
 
+# Overlays
+PRODUCT_PACKAGES += \
+    OnePlus8SeriesBluetooth
+
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
