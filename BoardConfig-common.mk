@@ -76,6 +76,9 @@ TARGET_SURFACEFLINGER_FOD_LIB := //$(PLATFORM_PATH):libfod_extension.oneplus8
 # HIDL
 DEVICE_FRAMEWORK_MANIFEST_FILE := $(PLATFORM_PATH)/framework_manifest.xml
 
+# Init
+TARGET_INIT_VENDOR_LIB := //$(PLATFORM_PATH):libinit_oneplus8
+
 # Kernel
 BOARD_KERNEL_CMDLINE := \
     androidboot.console=ttyMSM0 \
