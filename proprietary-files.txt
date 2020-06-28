@@ -1,3 +1,9 @@
+# Display
+product/lib/liblayerext.qti.so
+product/lib/libsmomo.qti.so
+product/lib64/liblayerext.qti.so
+product/lib64/libsmomo.qti.so
+
 # Hotword
 -system/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk
 -system/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk
