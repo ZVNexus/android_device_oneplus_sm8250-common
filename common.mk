@@ -89,6 +89,7 @@ PRODUCT_PACKAGES += \
     AOSPAOnePlus8SeriesSettings \
     AOSPAOnePlus8SeriesSystemUI \
     OnePlus8SeriesBluetooth \
+    OnePlus8SeriesFrameworks \
     OnePlus8SeriesSystemUI
 
 # Partitions
